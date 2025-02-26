@@ -1,0 +1,3 @@
+[submodule "Fastq_scrub"]
+	path = Fastq_scrub
+	url = https://github.com/skose82/Fastq_scrub
